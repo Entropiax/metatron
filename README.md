@@ -1,2 +1,2 @@
 # metatron
-I hope this going to be very fun. 
+I hope this will be very fun. 
